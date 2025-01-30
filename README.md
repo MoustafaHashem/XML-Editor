@@ -1,4 +1,4 @@
-# XMLEditor 📄✨
+# XMLEditor 🚀 | Edit, Parse, and Visualize XML with Ease!
 
 ## Table of Contents 📑
 1. [Description 📝](#description-)
