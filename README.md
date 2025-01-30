@@ -2,7 +2,7 @@
 
 ## Table of Contents 📑
 1. [Description 📝](#description-)
-2. [Features 🛠️](#features-)
+2. [Features 🛠️](#features-%EF%B8%8F)
    - [XML Parsing and Validation](#xml-parsing-and-validation)
    - [XML Formatting](#xml-formatting)
    - [XML to JSON Conversion](#xml-to-json-conversion)
@@ -12,7 +12,7 @@
    - [Post Search](#post-search)
    - [User-Friendly Interface](#user-friendly-interface)
 3. [Installation 📥](#installation-)
-4. [Usage 🖥️](#usage-)
+4. [Usage 🖥️](#usage-%EF%B8%8F)
    - [GUI Mode](#gui-mode)
    - [CLI Mode](#cli-mode)
      - [Checking XML Consistency](#checking-xml-consistency)
@@ -22,8 +22,8 @@
      - [Compressing XML File](#compressing-xml-file)
      - [Decompressing XML File](#decompressing-xml-file)
      - [Representing the XML in a Graph](#representing-the-xml-in-a-graph)
-     - [Network Analysis](#network-analysis-cli)
-     - [Post Search](#post-search-cli)
+     - [Network Analysis](#network-analysis-1)
+     - [Post Search](#post-search-1)
 5. [Documentation 📚](#documentation-)
 6. [Contributing 🤝](#contributing-)
 7. [License 📜](#license-)
