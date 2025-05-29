@@ -34,7 +34,7 @@
 
 **XMLEditor** is a comprehensive JavaFX-based desktop application designed for parsing, editing, and visualizing XML files. It provides a wide range of features for manipulating XML data, including validation, formatting, compression, and conversion to JSON. Additionally, the application offers tools for analyzing and visualizing social network data represented in XML format, such as identifying influential users, mutual followers, and suggesting connections. The application is designed to cater to both casual users through a **Graphical User Interface (GUI)** and advanced users via a **Command-Line Interface (CLI)**, ensuring accessibility and usability for a wide range of users.
 
-For detailed documentation on how the project works and how to contribute, please refer to the [Documentation](https://moustafahashem.github.io/XMLEditorProject/).
+For detailed documentation on how the project works and how to contribute, please refer to the [Documentation](https://moustafahashem.github.io/XML-Editor/).
 
 ---
 
@@ -217,7 +217,7 @@ The CLI mode allows advanced users to execute operations through commands. Below
 
 ## Documentation 📚
 
-For more detailed information on how to use the application, its features, and how to contribute, please visit the [Documentation](https://moustafahashem.github.io/XMLEditorProject/).
+For more detailed information on how to use the application, its features, and how to contribute, please visit the [Documentation](https://moustafahashem.github.io/XML-Editor/).
 
 ---
 
